@@ -28,7 +28,7 @@ I specialize in **PHP/Laravel development**, modern JavaScript frameworks, datab
 #### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,cakephp" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
 #### Frontend

@@ -116,10 +116,18 @@ I prefer a clean and maintainable architecture when developing Laravel applicati
 #### AI Stack
 
 <p>
-  <img src="https://cdn.simpleicons.org/openai" height="48" alt="OpenAI" />
-  <img src="https://cdn.simpleicons.org/anthropic" height="48" alt="Anthropic" />
-  <img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" />
-  <img src="https://cdn.simpleicons.org/githubcopilot" height="48" alt="GitHub Copilot" />
+  <a href="https://openai.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" />
+  </a>
+  <a href="https://www.anthropic.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/anthropic/000000" height="48" alt="Anthropic" />
+  </a>
+  <a href="https://claude.ai" target="_blank">
+    <img src="https://cdn.simpleicons.org/claude/000000" height="48" alt="Claude" />
+  </a>
+  <a href="https://github.com/features/copilot" target="_blank">
+    <img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48" alt="GitHub Copilot" />
+  </a>
 </p>
 
 #### DevOps & Tools

@@ -4,92 +4,33 @@
 
 I'm a **Technical Engineer and Web Developer** with experience building, deploying, maintaining, and integrating web-based systems.
 
-I specialize in **PHP/Laravel development**, modern JavaScript frameworks, database management, system integration, Linux server environments, and **AI-assisted software development**. I focus on building **clean, maintainable, scalable, and business-oriented applications** using modern development practices.
+I specialize in **PHP/Laravel, Vue.js, Inertia.js, databases, system integration, Linux environments, and AI-assisted development**, with a focus on building clean, maintainable, and scalable business applications.
 
 ---
 
 ### 🚀 About Me
 
-* 🔭 Currently working as a **Technical Engineer**
-* 💻 Experienced in **Laravel 11/12, PHP, Vue 3, React.js, and Inertia.js**
-* 🎨 Experienced with **Tailwind CSS, Bootstrap, and Vuetify**
+* 🔭 Technical Engineer with hands-on experience in **web development and system implementation**
+* 💻 Specialized in **Laravel 11/12, PHP, Vue 3, Inertia.js, and JavaScript**
 * 🗄️ Experienced with **MySQL, MariaDB, and MSSQL**
-* 🧩 Build Laravel applications using **thin controllers and service-based architecture**
-* ⚙️ Keep business logic inside dedicated **Service Classes (`app/Services`)**, while controllers primarily orchestrate application flow
-* 🧱 Build Vue 3 applications using **Composition API and composables** instead of the Options API
-* 🔐 Use **Spatie Laravel Permission** for application roles and permission management
-* 🌱 Use **database seeders and factories** to generate sample and development data
-* 🟢 Experienced with **Node.js and npm-based frontend tooling**
-* 🤖 Experienced with **AI-assisted development using OpenAI, Anthropic, Claude Code, and GitHub Copilot**
-* 🔌 Experienced in **system integration, HL7, middleware, and laboratory/hospital systems**
-* 🖥️ Experienced in **Ubuntu/Linux server setup, deployment, and maintenance**
-* 🔐 Familiar with **application and database security**
-* ⚙️ Experienced in **troubleshooting, testing, implementation, and technical support**
-* 📦 Experienced with **Git, GitHub, Composer, npm, Vite, Postman, and REST APIs**
-* 🚀 Continuously learning and building **SaaS and business applications**
-* 🤝 Open to collaborating on **web applications, SaaS products, system integrations, and IT solutions**
+* 🧩 Experienced in **system integration, HL7, middleware, and healthcare systems**
+* 🖥️ Experienced in **Linux server setup, deployment, security, and maintenance**
+* 🤖 Use **OpenAI, Anthropic, Claude Code, and GitHub Copilot** for AI-assisted development
+* 📦 Experienced with **Git, GitHub, Composer, Node.js, npm, Vite, and Postman**
+* 🚀 Building and exploring **SaaS and business applications**
 
 ---
 
 ### 🏗️ Development Practices
 
-I prefer a clean and maintainable architecture when developing Laravel applications.
+I focus on **clean architecture, maintainability, and practical business solutions**.
 
-**Backend Architecture**
-
-* Laravel 11/12
-* Thin Controllers
-* Fat Service Classes
-* Business logic organized in `app/Services`
-* RESTful APIs and structured application layers
-* Form Requests for validation
-* Eloquent ORM for database interactions
-
-**Frontend Architecture**
-
-* Vue 3
-* Composition API
-* Reusable Vue composables
-* Inertia.js
-* No Options API
-* Component-based UI development
-* Tailwind CSS
-
-**Authentication & Authorization**
-
-* Laravel authentication
-* **Spatie Laravel Permission**
-* Centralized role and permission checks
-* Role-based access control
-
-**Database & Development Data**
-
-* MySQL / MariaDB
-* MSSQL
-* Laravel migrations
-* Seeders for sample and development data
-* Factories for generating test data
-
-**AI-Assisted Development**
-
-* **OpenAI**
-* **Anthropic**
-* **Claude Code**
-* **GitHub Copilot**
-* AI-assisted coding and code generation
-* Debugging and refactoring assistance
-* Architecture and implementation assistance
-* Documentation and development workflow automation
-
-**Development & Tooling**
-
-* Node.js
-* npm
-* Vite
-* Composer
-* Git / GitHub
-* Postman
-* REST APIs
+* **Backend:** Laravel 11/12 with thin controllers and business logic organized in `app/Services`
+* **Frontend:** Vue 3 Composition API, reusable composables, and Inertia.js — no Options API
+* **Authorization:** Spatie Laravel Permission for centralized roles and permissions
+* **Database:** MySQL/MariaDB, MSSQL, migrations, seeders, and factories
+* **Tooling:** Node.js, npm, Vite, Composer, Git, GitHub, and Postman
+* **AI-Assisted Development:** OpenAI, Anthropic, Claude Code, and GitHub Copilot for coding, debugging, refactoring, architecture, and documentation
 
 ---
 
@@ -111,23 +52,6 @@ I prefer a clean and maintainable architecture when developing Laravel applicati
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mssql" />
-</p>
-
-#### AI Stack
-
-<p>
-  <a href="https://openai.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/000000" height="48" alt="OpenAI" />
-  </a>
-  <a href="https://www.anthropic.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/anthropic/000000" height="48" alt="Anthropic" />
-  </a>
-  <a href="https://claude.ai" target="_blank">
-    <img src="https://cdn.simpleicons.org/claude/000000" height="48" alt="Claude" />
-  </a>
-  <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://cdn.simpleicons.org/githubcopilot/000000" height="48" alt="GitHub Copilot" />
-  </a>
 </p>
 
 #### DevOps & Tools
@@ -159,7 +83,6 @@ A unified digital platform that brings resident services, barangay operations, a
 * Laravel 12 backend
 * Vue 3 + Inertia.js
 * Thin Controllers + Service Classes
-* Service-based business logic
 * Role and permission management
 * MySQL database
 * Seeders for sample data

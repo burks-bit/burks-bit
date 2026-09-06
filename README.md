@@ -46,7 +46,7 @@ I specialize in **PHP/Laravel development**, modern JavaScript frameworks, datab
 #### DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,github,composer,npm,vite,postman,cloudflare,apache,nginx" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,github" />📸<img src="https://jsdelivr.net" alt="Composer" width="48" height="48" style="vertical-align: middle; margin: 0 4px;" /><img src="https://skillicons.dev" />
 </p>
 
 #### Integration & Networking

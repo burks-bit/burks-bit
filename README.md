@@ -11,12 +11,12 @@ I specialize in **PHP/Laravel, Vue.js, Inertia.js, databases, system integration
 ### 🚀 About Me
 
 * 🔭 Technical Engineer with hands-on experience in **web development and system implementation**
-* 💻 Specialized in **Laravel 11/12, PHP, Vue 3, Inertia.js, and JavaScript**
+* 💻 Specialized in **Laravel 11/12, PHP, Vue 3, Inertia.js, JavaScript, HTML, and CSS**
 * 🗄️ Experienced with **MySQL, MariaDB, and MSSQL**
 * 🧩 Experienced in **system integration, HL7, middleware, and healthcare systems**
 * 🖥️ Experienced in **Linux server setup, deployment, security, and maintenance**
 * 🤖 Use **OpenAI, Anthropic, Claude Code, and GitHub Copilot** for AI-assisted development
-* 📦 Experienced with **Git, GitHub, Composer, Node.js, npm, Vite, and Postman**
+* 🛠️ Experienced with **VS Code, MySQL Workbench, Postman, Git, GitHub, Composer, Node.js, npm, and Vite**
 * 🚀 Building and exploring **SaaS and business applications**
 
 ---
@@ -26,10 +26,10 @@ I specialize in **PHP/Laravel, Vue.js, Inertia.js, databases, system integration
 I focus on **clean architecture, maintainability, and practical business solutions**.
 
 * **Backend:** Laravel 11/12 with thin controllers and business logic organized in `app/Services`
-* **Frontend:** Vue 3 Composition API, reusable composables, and Inertia.js — no Options API
+* **Frontend:** Vue 3 Composition API, reusable composables, Inertia.js, HTML & CSS
 * **Authorization:** Spatie Laravel Permission for centralized roles and permissions
 * **Database:** MySQL/MariaDB, MSSQL, migrations, seeders, and factories
-* **Tooling:** Node.js, npm, Vite, Composer, Git, GitHub, and Postman
+* **Tooling:** VS Code, MySQL Workbench, Postman, Node.js, npm, Vite, Composer, Git & GitHub
 * **AI-Assisted Development:** OpenAI, Anthropic, Claude Code, and GitHub Copilot for coding, debugging, refactoring, architecture, and documentation
 
 ---
@@ -45,7 +45,7 @@ I focus on **clean architecture, maintainability, and practical business solutio
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,js,tailwind,bootstrap,vuetify" />
+  <img src="https://skillicons.dev/icons?i=html,css,vue,react,js,tailwind,bootstrap,vuetify" />
 </p>
 
 #### Database
@@ -54,10 +54,24 @@ I focus on **clean architecture, maintainability, and practical business solutio
   <img src="https://skillicons.dev/icons?i=mysql,mssql" />
 </p>
 
-#### DevOps & Tools
+#### Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,git,github,nodejs,npm,vite,postman,cloudflare,nginx" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,npm,vite,postman,composer" />
+</p>
+
+#### Database Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+**MySQL Workbench • MySQL • MariaDB • MSSQL**
+
+#### DevOps & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,cloudflare,nginx" />
 </p>
 
 #### Integration & Networking

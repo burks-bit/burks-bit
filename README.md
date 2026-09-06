@@ -85,7 +85,6 @@ I focus on **clean architecture, maintainability, and practical business solutio
 ### 📌 Featured Projects
 
 #### 🏛️ Barangay Management and Community Service System
-
 A unified digital platform that brings resident services, barangay operations, and disaster response together — built for the way Philippine barangays actually work, from the household level up to the barangay hall.
 
 <p>
@@ -93,7 +92,6 @@ A unified digital platform that brings resident services, barangay operations, a
 </p>
 
 **Architecture highlights:**
-
 * Laravel 12 backend
 * Vue 3 + Inertia.js
 * Thin Controllers + Service Classes
@@ -103,17 +101,19 @@ A unified digital platform that brings resident services, barangay operations, a
 * Responsive Tailwind CSS interface
 
 #### 🍽️ Hapag sa Balai POS & Management System
-
 Restaurant POS and management system built with modern web technologies, including sales, inventory, cashier, payment, and reporting features.
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql" />
+</p>
 
+#### 🌾 BigasKo App
+A rice store management application designed to help small rice retailers track inventory, sacks, variants, and pricing with ease.
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql" />
 </p>
 
 #### 💰 Taki Finance
-
 A finance management application designed to help users manage their finances, transactions, and financial information.
-
 <p>
   <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql" />
 </p>

@@ -34,7 +34,7 @@ I specialize in **PHP/Laravel development**, modern JavaScript frameworks, datab
 #### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,inertia,js,tailwind,bootstrap,vuetify" />
+  <img src="https://skillicons.dev/icons?i=vue,react,js,tailwind,bootstrap,vuetify" />
 </p>
 
 #### Database
@@ -64,7 +64,7 @@ I specialize in **PHP/Laravel development**, modern JavaScript frameworks, datab
 A unified digital platform that brings resident services, barangay operations, and disaster response together — built for the way Philippine barangays actually work, from the household level up to the barangay hall.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,inertia,vue,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,mysql" />
 </p>
 
 #### 🍽️ Hapag sa Balai POS & Management System
@@ -72,7 +72,7 @@ A unified digital platform that brings resident services, barangay operations, a
 Restaurant POS and management system built with modern web technologies, including sales, inventory, cashier, payment, and reporting features.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,vue,inertia,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,mysql" />
 </p>
 
 #### 💰 Taki Finance

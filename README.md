@@ -4,7 +4,7 @@
 
 I'm a **Technical Engineer and Web Developer** with experience building, deploying, maintaining, and integrating web-based systems.
 
-I specialize in **PHP/Laravel development**, modern JavaScript frameworks, database management, system integration, and Linux server environments. I focus on building **clean, maintainable, scalable, and business-oriented applications** using modern development practices.
+I specialize in **PHP/Laravel development**, modern JavaScript frameworks, database management, system integration, Linux server environments, and **AI-assisted software development**. I focus on building **clean, maintainable, scalable, and business-oriented applications** using modern development practices.
 
 ---
 
@@ -20,6 +20,7 @@ I specialize in **PHP/Laravel development**, modern JavaScript frameworks, datab
 * 🔐 Use **Spatie Laravel Permission** for application roles and permission management
 * 🌱 Use **database seeders and factories** to generate sample and development data
 * 🟢 Experienced with **Node.js and npm-based frontend tooling**
+* 🤖 Experienced with **AI-assisted development using OpenAI, Anthropic, Claude Code, and GitHub Copilot**
 * 🔌 Experienced in **system integration, HL7, middleware, and laboratory/hospital systems**
 * 🖥️ Experienced in **Ubuntu/Linux server setup, deployment, and maintenance**
 * 🔐 Familiar with **application and database security**
@@ -69,6 +70,17 @@ I prefer a clean and maintainable architecture when developing Laravel applicati
 * Seeders for sample and development data
 * Factories for generating test data
 
+**AI-Assisted Development**
+
+* **OpenAI**
+* **Anthropic**
+* **Claude Code**
+* **GitHub Copilot**
+* AI-assisted coding and code generation
+* Debugging and refactoring assistance
+* Architecture and implementation assistance
+* Documentation and development workflow automation
+
 **Development & Tooling**
 
 * Node.js
@@ -101,6 +113,15 @@ I prefer a clean and maintainable architecture when developing Laravel applicati
   <img src="https://skillicons.dev/icons?i=mysql,mssql" />
 </p>
 
+#### AI Stack
+
+<p>
+  <img src="https://cdn.simpleicons.org/openai" height="48" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/anthropic" height="48" alt="Anthropic" />
+  <img src="https://cdn.simpleicons.org/claude" height="48" alt="Claude" />
+  <img src="https://cdn.simpleicons.org/githubcopilot" height="48" alt="GitHub Copilot" />
+</p>
+
 #### DevOps & Tools
 
 <p>
@@ -129,6 +150,7 @@ A unified digital platform that brings resident services, barangay operations, a
 
 * Laravel 12 backend
 * Vue 3 + Inertia.js
+* Thin Controllers + Service Classes
 * Service-based business logic
 * Role and permission management
 * MySQL database
@@ -161,7 +183,7 @@ I'm using GitHub to document my projects, experiment with new technologies, and 
 
 ### 🤝 Let's Connect
 
-I'm interested in **web development opportunities, SaaS projects, system development, integrations, and IT solutions**.
+I'm interested in **web development opportunities, SaaS projects, AI-assisted development, system development, integrations, and IT solutions**.
 
 ---
 
